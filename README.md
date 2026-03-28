@@ -11,7 +11,8 @@ In this repository, I am solving coding problems daily to improve my  logic buil
 ## Progress
 
 - Day 1: Half Pyramid Pattern
-- Day 2 : (Coming Soon...)
+- Day 2: Inverted Half Pyramid Pattern
+- Day 3 : (Coming Soon...)
 
 ## What I'm learning
 - Loops
