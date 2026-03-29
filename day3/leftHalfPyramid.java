@@ -10,10 +10,7 @@ public class leftHalfPyramid {
         //   * * *
         // * * * *
 
-        Scanner sc = new Scanner(System.in);
-
-        System.out.print("Enter number: ");
-        int n = sc.nextInt();
+        int n = 5;
 
         for(int i=1; i<=n; i++){
 
