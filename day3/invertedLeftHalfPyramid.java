@@ -10,7 +10,7 @@ public class invertedLeftHalfPyramid {
         //       * *
         //         *
 
-        int n = 5;
+        int n =5;
 
         for(int i=1; i<=n; i++){
 
@@ -19,7 +19,7 @@ public class invertedLeftHalfPyramid {
                 System.out.print("  ");
             }
 
-            //print stars
+            //print spaces
             for(int j=i; j<=n; j++){
                 System.out.print("* ");
             }
