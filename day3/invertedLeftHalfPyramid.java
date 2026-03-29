@@ -1,7 +1,5 @@
 package day3;
 
-import java.util.*;
-
 public class invertedLeftHalfPyramid {
     public static void main(String args[]){
         //Q no.4 Take an input from user and print inverted left half pyramid

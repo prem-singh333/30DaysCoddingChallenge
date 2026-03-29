@@ -1,6 +1,5 @@
 package day3;
 
-import java.util.*;
 public class leftHalfPyramid {
     public static void main(String args[]){
         //Q no.3 Take an input from user and pring left half pyramid pattern
