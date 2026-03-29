@@ -16,7 +16,7 @@ In this repository, I am solving coding problems daily to improve my  logic buil
         - Left Half Pyramid.
         - Inverted Left Half Pyramid.
 
-- Day 4: (Comming Soon...)
+- Day 4: (Comming Soon...).
 
 ## What I'm learning
 - Loops
