@@ -15,7 +15,7 @@ In this repository, I am solving coding problems daily to improve my  logic buil
 - Day 3: Solved 2 questions related to the pattern.
         - Left Half Pyramid.
         - Inverted Left Half Pyramid.
-        
+
 - Day 4 : (Coming Soon...)
 
 ## What I'm learning
