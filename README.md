@@ -16,7 +16,11 @@ In this repository, I am solving coding problems daily to improve my  logic buil
         - Left Half Pyramid.
         - Inverted Left Half Pyramid.
 
-- Day 4: (Comming Soon...)
+- Day 4: Solved 2 Diamond patterns questions.
+        - Solid Diamond pattern.
+        - Hollow Diamond pattern.
+
+- Day 5: (Comming Soon...)
 
 ## What I'm learning
 - Loops
