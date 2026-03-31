@@ -20,7 +20,11 @@ In this repository, I am solving coding problems daily to improve my  logic buil
         - Solid Diamond pattern.
         - Hollow Diamond pattern.
 
-- Day 5: (Comming Soon...)
+- Day 5: Solved Rhombus pattern
+        - Solid Rhombus
+        - Hollow Rhombus
+        
+- Day 6: (Comming Soon...)
 
 ## What I'm learning
 - Loops
