@@ -24,8 +24,9 @@ In this repository, I am solving coding problems daily to improve my  logic buil
         - Solid Rhombus
         - Hollow Rhombus
         
-- Day 6: Solver Butterfly star pattern
-- Day 7: (Comming Soon...)
+- Day 6: Solved Butterfly star pattern
+- Day 7: Solved Pascal Triangle pattern
+- Day 8: (Comming Soon...)
 
 ## What I'm learning
 - Loops
