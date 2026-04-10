@@ -26,7 +26,8 @@ In this repository, I am solving coding problems daily to improve my  logic buil
         
 - Day 6: Solved Butterfly star pattern
 - Day 7: Solved Pascal Triangle pattern
-- Day 8: (Comming Soon...)
+- Day 8: Solved Zero One pattern question
+- Day 9: (Comming Soon...)
 
 ## What I'm learning
 - Loops
