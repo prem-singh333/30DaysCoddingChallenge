@@ -2,7 +2,7 @@ package day3;
 
 public class invertedLeftHalfPyramid {
     public static void main(String args[]){
-        //Q no.3 Take an input from user and print inverted left half pyramid
+        //Q no.3 Take an input from user and print inverted left half Pyramid
 
         // * * * * *
         //   * * * *
