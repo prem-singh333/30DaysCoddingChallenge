@@ -3,7 +3,7 @@ package day8;
 public class Zero_one_halfPyramid {
     public static void main(String args[]) {
 
-        // Print Zero One Pattern pattern
+        //Q no.11 Print Zero One Pattern pattern
 
         // 1
         // 0 1

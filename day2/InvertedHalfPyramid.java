@@ -2,7 +2,7 @@ package day2;
 
 public class InvertedHalfPyramid {
     public static void main(String args[]){
-        //Q no.10 Print inverted half pyramid pattern
+        //Q no.2 Print inverted half pyramid pattern
 
         // * * * * *
         // * * * *

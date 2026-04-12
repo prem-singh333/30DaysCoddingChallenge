@@ -2,7 +2,7 @@ package day4;
 
 public class HollowDiamond {
     public static void main(String args[]){
-        //Q no.7 Print hollow diamond pattern
+        //Q no.5 Print hollow diamond pattern
 
         int n = 4;
 

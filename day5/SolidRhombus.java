@@ -3,7 +3,7 @@ package day5;
 public class SolidRhombus {
     public static void main(){
 
-        //Q no. 7 Print solid rhombus pattern
+        //Q no.8 Print solid rhombus pattern
 
         //       * * * *
         //     * * * *

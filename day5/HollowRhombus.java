@@ -3,7 +3,7 @@ package day5;
 public class HollowRhombus {
     public static void main(){
 
-        //Q no.8 Print hollow rhombus
+        //Q no.7 Print hollow rhombus
 
         //    * * * *
         //   *     *

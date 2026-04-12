@@ -2,7 +2,7 @@ package day3;
 
 public class leftHalfPyramid {
     public static void main(String args[]){
-        //Q no.3 Take an input from user and pring left half pyramid pattern
+        //Q no.4 Take an input from user and pring left half pyramid pattern
 
         //       *
         //     * *
