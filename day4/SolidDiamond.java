@@ -2,7 +2,7 @@ package day4;
 
 public class SolidDiamond {
     public static void main(String args[]){
-        //Q no.6 Print solid diamond pattern
+        //Q no.6 Print solid Diamond pattern
 
         //        *
         //      * * *
