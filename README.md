@@ -28,7 +28,9 @@ In this repository, I am solving coding problems daily to improve my  logic buil
 - Day 7: Solved Pascal Triangle pattern
 - Day 8: Solved Zero One pattern question
 - Day 9: Solved Swastik star pattern question
-- Day 10: (Comming Soon...)
+- Day 10: Solved Diagonal star pattern
+
+- Day 11: (Comming Soon...)
 
 ## What I'm learning
 - Loops
