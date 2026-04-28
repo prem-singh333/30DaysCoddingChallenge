@@ -1,4 +1,4 @@
-# 30 Days Codding Challenge (JAVA)
+# 10 Days Codding Challenge (JAVA)
 
 Welcome to my 30 Days Coding Challenge!
 In this repository, I am solving coding problems daily to improve my  logic building.
